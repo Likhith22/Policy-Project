@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 public class demo {
     int a=10;
@@ -8,9 +8,7 @@ public class demo {
         int k=11;
     }
 }
-=======
 public class bubble {
     int i=22;
     int j=33;
 }
->>>>>>> 56b9db44f631712529fdf2b4a53aeb2b501322db
